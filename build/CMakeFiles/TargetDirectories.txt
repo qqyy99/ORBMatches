@@ -1,0 +1,4 @@
+/home/auto/zqy/projects/hw-day11/build/CMakeFiles/ORB.dir
+/home/auto/zqy/projects/hw-day11/build/CMakeFiles/hw11.dir
+/home/auto/zqy/projects/hw-day11/build/CMakeFiles/edit_cache.dir
+/home/auto/zqy/projects/hw-day11/build/CMakeFiles/rebuild_cache.dir
